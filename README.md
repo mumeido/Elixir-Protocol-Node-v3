@@ -58,7 +58,7 @@ SIGNER_PRIVATE_KEY= Privat key
 ```bash
 docker run -d --env-file /home/elixir/validator.env --name elixir --restart unless-stopped elixirprotocol/validator:v3
 ```
-[2](https://raw.githubusercontent.com/mumeido/Elixir-Protocol-Node-v3/main/elixir_2.PNG)
+[!](https://raw.githubusercontent.com/mumeido/Elixir-Protocol-Node-v3/main/elixir_2.PNG)
 
 After that, go to [Tesnet](https://testnet-3.elixir.xyz/) page and claim $MOCK with Epolia ETH and then delegate to your validator by clicking Custom Validator
 
